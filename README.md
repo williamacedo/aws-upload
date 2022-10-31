@@ -11,3 +11,8 @@
 - Pegando a imagem de volta do S3
 
 ![image](https://user-images.githubusercontent.com/26313289/199035029-9b3dd020-db5f-4997-ab19-a97dd770cfc9.png)
+
+- Foto que foi feito o upload
+
+![logo-fainor](https://user-images.githubusercontent.com/26313289/199035221-f4db5129-dba6-4cff-b1d6-fae92beac60b.png)
+
