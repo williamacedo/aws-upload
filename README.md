@@ -16,3 +16,6 @@
 
 ![logo-fainor](https://user-images.githubusercontent.com/26313289/199035221-f4db5129-dba6-4cff-b1d6-fae92beac60b.png)
 
+- Bucket do s3
+
+![image](https://user-images.githubusercontent.com/26313289/199035645-f7a1887f-e81b-401a-8668-f0e5861c8e76.png)
